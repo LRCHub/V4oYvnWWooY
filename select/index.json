@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ボクの文学",
   "base_artist": "おもかげ",
-  "createdAt": "2026-03-30T14:25:35.105207Z",
+  "createdAt": "2026-03-31T16:26:12.565946Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "おもかげ",
       "has_synced": false,
       "path": "select/pl_01_ボクの文学_おもかげ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ボクの文学",
+      "artist": "おもかげ",
+      "has_synced": false,
+      "path": "select/localdb_01_ボクの文学_おもかげ.txt",
+      "repo_name": "V4oYvnWWooY"
     }
   ]
 }
